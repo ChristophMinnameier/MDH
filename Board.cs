@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class Board : MonoBehaviour {
-/*asd*/
+/*ad*/
 	public int iSize = 10;
 	
 	GameObject[,] board;
